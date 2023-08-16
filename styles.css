@@ -1,1 +1,27 @@
 /* your code */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+table{
+	width: 100%;
+	border: 1px solid black;
+	font-style: Poppins;
+	border-radius:10px;
+}
+th{
+	background-color: #4169e1;
+	height:30px;
+	font-size: 12px;
+	border-bottom:2px solid black;
+}
+td{
+	font-size: 10px;
+/* 	border-bottom: 1px solid black; */
+}
+
+.grey-row{
+	background-color: lightgray;
+}
+
+.mvp{
+	background-color: lightgreen;
+}
