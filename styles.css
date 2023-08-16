@@ -25,3 +25,9 @@ td{
 .mvp{
 	background-color: lightgreen;
 }
+
+.caption{
+	font-style:poppins;
+	font-size: 20px;
+	font-weight: 900;
+}
